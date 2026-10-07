@@ -1,0 +1,6 @@
+{
+  "name": "LoLimpiaMama — Limpieza profunda a domicilio en Santiago",
+  "description": "Limpieza profunda a domicilio de colchones, sillones, alfombras y sillas de niños en Santiago. Productos biodegradables. Cotiza por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
